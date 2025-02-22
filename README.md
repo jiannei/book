@@ -7,3 +7,7 @@
 - https://weekly.tw93.fun/posts/210-%E9%9C%87%E6%92%BC%E7%83%9F%E5%9B%B1
 - https://www.bilibili.com/video/BV17x6hYZEzJ/
 - https://developer.aliyun.com/special/tech-java
+
+## 资源下载
+
+- 提供网盘地址
