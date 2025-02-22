@@ -2,3 +2,4 @@
 - 项目工具：git/svn/gitlab/jenkins/
 - 环境部署：docker/rundeck/k8s/
 - 生产监控：loki/grafana/prometheus/
+- UML 数据建模
