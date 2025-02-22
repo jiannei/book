@@ -8,6 +8,11 @@
 - https://www.bilibili.com/video/BV17x6hYZEzJ/
 - https://developer.aliyun.com/special/tech-java
 
+- 【架构】【周志明的软件架构课】https://time.geekbang.org/opencourse/intro/100064201
+- 《Designing Data-Intensive Application（数据密集型应用系统设计）》 https://github.com/Vonng/ddia
+- 【MySQL】https://time.geekbang.org/column/intro/100020801
+
 ## 资源下载
 
+- 官方资源、好评书籍/课程
 - 提供网盘地址
