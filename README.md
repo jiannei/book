@@ -12,6 +12,8 @@
 - 《Designing Data-Intensive Application（数据密集型应用系统设计）》 https://github.com/Vonng/ddia
 - 【MySQL】https://time.geekbang.org/column/intro/100020801
 
+- 【golang】https://github.com/golang-design/go-questions
+
 ## 资源下载
 
 - 官方资源、好评书籍/课程
