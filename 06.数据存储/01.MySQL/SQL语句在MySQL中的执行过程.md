@@ -18,7 +18,7 @@
 - **优化器：** 按照 MySQL 认为最优的方案去执行。
 - **执行器：** 执行语句，然后从存储引擎返回数据。 -
 
-![](https://oss.javaguide.cn/javaguide/13526879-3037b144ed09eb88.png)
+![](https://raw.githubusercontent.com/jiannei/images/main/images/202502252050530.png)
 
 简单来说 MySQL 主要分为 Server 层和存储引擎层：
 
@@ -126,5 +126,3 @@ update tb_student A set A.age='19' where A.name=' 张三 ';
 
 - 《MySQL 实战 45 讲》
 - MySQL 5.6 参考手册:<https://dev.MySQL.com/doc/refman/5.6/en/>
-
-<!-- @include: @article-footer.snippet.md -->
